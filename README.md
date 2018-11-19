@@ -18,7 +18,7 @@ Bootstrap Tables widget for Yii2 framework
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 ```
-composer require m-comscience/yii2-widget-bootstrap-table
+composer require m-comscience/yii2-widget-bootstrap-table '@dev'
 ```
 
 ## Usage
