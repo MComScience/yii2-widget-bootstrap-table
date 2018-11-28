@@ -370,7 +370,7 @@ HTML;
             Html::addCssClass($this->tableOptions, 'table-striped');
         }
         if ($this->condensed) {
-            $this->addCssClass($this->tableOptions, 'table-condensed');
+            Html::addCssClass($this->tableOptions, 'table-condensed');
         }
     }
 }
